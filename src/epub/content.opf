@@ -49,9 +49,10 @@
 		<meta property="se:subject">Drama</meta>
 		<meta id="collection-1" property="belongs-to-collection">Encyclopædia Britannica’s Great Books of the Western World</meta>
 		<meta property="collection-type" refines="#collection-1">set</meta>
-		<dc:description id="description">A Roman general and the Queen of the Goths hold a blood feud against each other.</dc:description>
+		<dc:description id="description">A blood feud arises between a famous Roman general and the Queen of the Goths.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;Long Description.&lt;/p&gt;
+			&lt;p&gt;Titus Andronicus, a famous Roman general, has returned to Rome after a war against the Goths with five prisoners: Tamora, the Queen of the Goths, her three sons, and her lover Aaron the Moor. After losing two of his sons to the Goths, Titus kills Tamora’s eldest son as retribution. A blood feud arises between the two families.&lt;/p&gt;
+			&lt;p&gt;Saturninus is elected as the new Emperor of Rome with the support of Titus Andronicus. He declares he will marry Titus’s daughter Lavinia. Titus agrees, but she has already been promised to Bassianus, Saturninus’s brother. A violent argument breaks out, resulting in Titus killing one of his sons and Tamora becoming the new empress.&lt;/p&gt;
 			&lt;p&gt;This Standard Ebooks edition is based on William George Clark and William Aldis Wright’s 1887 Victoria edition, which is taken from the Globe edition.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
