@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/william-shakespeare/titus-andronicus</dc:identifier>
 		<dc:date>2022-08-25T20:15:20Z</dc:date>
@@ -51,12 +51,12 @@
 		<meta property="schema:genre">Drama</meta>
 		<meta id="collection-1" property="belongs-to-collection">Encyclopædia Britannica’s Great Books of the Western World</meta>
 		<meta property="collection-type" refines="#collection-1">set</meta>
-		<dc:description id="description">A blood feud erupts between a famous Roman general and the Queen of the Goths.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>A blood feud erupts between a famous Roman general and the Queen of the Goths.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;Titus Andronicus, a famous Roman general, has just returned to Rome after a war against the Goths. He brings with him five prisoners: Tamora, the Queen of the Goths, her three sons, and her lover Aaron the Moor. After losing two of his sons to the Goths, Titus kills Tamora’s eldest son as retribution, triggering a blood feud between the two families.&lt;/p&gt;
 			&lt;p&gt;Saturninus is elected as the new Emperor of Rome with the support of Titus Andronicus. He declares he will marry Titus’s daughter Lavinia. Titus agrees, but she has already been promised to Bassianus, Saturninus’s brother. A violent argument breaks out, resulting in Titus killing one of his sons and Tamora becoming the new empress.&lt;/p&gt;
 			&lt;p&gt;This Standard Ebooks edition is based on William George Clark and William Aldis Wright’s 1887 Victoria edition, which is taken from the Globe edition.&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-GB</dc:language>
 		<dc:source>http://shakespeare.mit.edu/titus/full.html</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/004135080</dc:source>
