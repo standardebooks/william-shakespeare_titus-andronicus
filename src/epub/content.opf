@@ -31,10 +31,10 @@
 		<dc:title id="title">Titus Andronicus</dc:title>
 		<meta property="file-as" refines="#title">Titus Andronicus</meta>
 		<dc:subject id="subject-1">Tragedies</dc:subject>
-		<dc:subject id="subject-2">Andronicus, Titus (Legendary character) -- Drama</dc:subject>
-		<dc:subject id="subject-3">Goths -- Drama</dc:subject>
-		<dc:subject id="subject-4">Generals -- Drama</dc:subject>
-		<dc:subject id="subject-5">Rome -- History -- Germanic invasions, 3rd-6th centuries -- Drama</dc:subject>
+		<dc:subject id="subject-2">Andronicus, Titus (Legendary character)--Drama</dc:subject>
+		<dc:subject id="subject-3">Goths--Drama</dc:subject>
+		<dc:subject id="subject-4">Generals--Drama</dc:subject>
+		<dc:subject id="subject-5">Rome--History--Germanic invasions, 3rd-6th centuries--Drama</dc:subject>
 		<dc:subject id="subject-6">Historical drama</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh2001009136</meta>
